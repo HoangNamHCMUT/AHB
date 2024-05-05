@@ -1,9 +1,3 @@
-
-
-
-
-
-
 `include "/home/ftv_training/SFD/4_Intern/2024_Mar/tuan_huynh/verilog_introduction/verilog/parameters.vh"
 module ahb_lite_slave #(parameter ADDR_WIDTH = `ADDR_WIDTH, parameter DATA_WIDTH = `DATA_WIDTH, parameter ERR_WIDTH = `ERR_WIDTH) (
   // Global and Control signals
