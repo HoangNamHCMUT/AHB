@@ -196,3 +196,4 @@ module ahb_lite_slave #(parameter ADDR_WIDTH = `ADDR_WIDTH, parameter DATA_WIDTH
     end
 
 endmodule
+
